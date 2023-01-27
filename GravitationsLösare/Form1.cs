@@ -38,8 +38,12 @@ namespace GravitationsLösare
             if(textBox2.Text != "")
                 massa = double.Parse(textBox2.Text);
 
+// antalet hål som g driven fungerar i 
+//justni = 1 för att det inte fins ett gui alternativ för att välja antalet 
+            int antHoll = 1;
+         
 
-            double GBlock = PCU / 370;
+            double GBlock = PCU / (185*antHoll+185);
             double MassaB = GBlock * 7.4;
             double Kraft = 495000 * GBlock * MassaB;
             AntalMassa.Text = Math.Round(MassaB,2).ToString();
@@ -76,7 +80,8 @@ namespace GravitationsLösare
             double Rail = double.Parse(iRail.Text);
             double Gyro = double.Parse(iGyro.Text);
             Massa *= 567.13;
-            Gravitation *= 600;
+            // antHoll är antallet hol som g driven fungerar i 
+            Gravitation *= 600 * antHoll;
             Rail *= 38000;
             Gyro *= 10;
             uMassaR.Text = Math.Round(Massa,1).ToString()+ " kw";
