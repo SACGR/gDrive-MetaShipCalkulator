@@ -4,6 +4,7 @@ namespace GravitationsLösare
 {
     public partial class Form1 : System.Windows.Forms.Form
     {
+        int antHoll = 1;
         public Form1()
         {
             InitializeComponent();
@@ -40,7 +41,7 @@ namespace GravitationsLösare
 
 // antalet hål som g driven fungerar i 
 //justni = 1 för att det inte fins ett gui alternativ för att välja antalet 
-            int antHoll = 1;
+            antHoll = 1;
          
 
             double GBlock = PCU / (185*antHoll+185);

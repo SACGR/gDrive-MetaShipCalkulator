@@ -15,3 +15,20 @@ C:\Users\Caspian Rosengren\source\repos\GravitationsLösare\GravitationsLösare\
 C:\Users\Caspian Rosengren\source\repos\GravitationsLösare\GravitationsLösare\obj\Debug\net6.0-windows\GravitationsLösare.genruntimeconfig.cache
 C:\Users\Caspian Rosengren\source\repos\GravitationsLösare\GravitationsLösare\obj\Debug\net6.0-windows\ref\GravitationsLösare.dll
 C:\Users\Caspian Rosengren\source\repos\GravitationsLösare\GravitationsLösare\obj\Debug\net6.0-windows\GravitationsLösare.Form1.resources
+C:\Users\Caspian\Source\Repos\gDrive-MetaShipCalkulator\GravitationsLösare\obj\Debug\net6.0-windows\GravitationsLösare.csproj.AssemblyReference.cache
+C:\Users\Caspian\Source\Repos\gDrive-MetaShipCalkulator\GravitationsLösare\obj\Debug\net6.0-windows\GravitationsLösare.Form1.resources
+C:\Users\Caspian\Source\Repos\gDrive-MetaShipCalkulator\GravitationsLösare\obj\Debug\net6.0-windows\GravitationsLösare.csproj.GenerateResource.cache
+C:\Users\Caspian\Source\Repos\gDrive-MetaShipCalkulator\GravitationsLösare\obj\Debug\net6.0-windows\GravitationsLösare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caspian\Source\Repos\gDrive-MetaShipCalkulator\GravitationsLösare\obj\Debug\net6.0-windows\GravitationsLösare.AssemblyInfoInputs.cache
+C:\Users\Caspian\Source\Repos\gDrive-MetaShipCalkulator\GravitationsLösare\obj\Debug\net6.0-windows\GravitationsLösare.AssemblyInfo.cs
+C:\Users\Caspian\Source\Repos\gDrive-MetaShipCalkulator\GravitationsLösare\obj\Debug\net6.0-windows\GravitationsLösare.csproj.CoreCompileInputs.cache
+C:\Users\Caspian\Source\Repos\gDrive-MetaShipCalkulator\GravitationsLösare\obj\Debug\net6.0-windows\GravitationsLösare.dll
+C:\Users\Caspian\Source\Repos\gDrive-MetaShipCalkulator\GravitationsLösare\obj\Debug\net6.0-windows\refint\GravitationsLösare.dll
+C:\Users\Caspian\Source\Repos\gDrive-MetaShipCalkulator\GravitationsLösare\obj\Debug\net6.0-windows\GravitationsLösare.pdb
+C:\Users\Caspian\Source\Repos\gDrive-MetaShipCalkulator\GravitationsLösare\bin\Debug\net6.0-windows\GravitationsLösare.exe
+C:\Users\Caspian\Source\Repos\gDrive-MetaShipCalkulator\GravitationsLösare\bin\Debug\net6.0-windows\GravitationsLösare.deps.json
+C:\Users\Caspian\Source\Repos\gDrive-MetaShipCalkulator\GravitationsLösare\bin\Debug\net6.0-windows\GravitationsLösare.runtimeconfig.json
+C:\Users\Caspian\Source\Repos\gDrive-MetaShipCalkulator\GravitationsLösare\bin\Debug\net6.0-windows\GravitationsLösare.dll
+C:\Users\Caspian\Source\Repos\gDrive-MetaShipCalkulator\GravitationsLösare\bin\Debug\net6.0-windows\GravitationsLösare.pdb
+C:\Users\Caspian\Source\Repos\gDrive-MetaShipCalkulator\GravitationsLösare\obj\Debug\net6.0-windows\GravitationsLösare.genruntimeconfig.cache
+C:\Users\Caspian\Source\Repos\gDrive-MetaShipCalkulator\GravitationsLösare\obj\Debug\net6.0-windows\ref\GravitationsLösare.dll
